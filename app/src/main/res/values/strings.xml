@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ausgaben</string>
+    <string name="balance_heading">Current balance</string>
+    <string name="new_entry">New Entry</string>
+    <string name="last_activities">Last Activities</string>
+    <string name="in">In</string>
+    <string name="out">Out</string>
+    <string name="balance">Balance</string>
 </resources>
